@@ -1,0 +1,31 @@
+complaint_text,category,priority,department
+Severe chest pain and difficulty breathing,Emergency,CRITICAL,Emergency
+Patient is unconscious and not responding,Emergency,CRITICAL,Emergency
+Heavy bleeding after an accident,Emergency,CRITICAL,Emergency
+Patient having a seizure,Emergency,CRITICAL,Emergency
+High fever with severe weakness,Medical,HIGH,Medical
+Persistent vomiting and abdominal pain,Medical,HIGH,Medical
+Need medicine refill for regular prescription,Medical,MEDIUM,Medical
+Wrong amount charged on hospital bill,Billing,MEDIUM,Accounts
+Hospital bill contains an incorrect charge,Billing,MEDIUM,Accounts
+Need a copy of my payment receipt,Billing,LOW,Accounts
+AC is not working in room 204,Maintenance,MEDIUM,Maintenance
+Water leakage in patient room,Maintenance,HIGH,Maintenance
+Light in the waiting area is not working,Maintenance,LOW,Maintenance
+Computer is not connecting to network,Technical,HIGH,IT
+Hospital computer is running very slowly,Technical,MEDIUM,IT
+Unable to log in to the hospital system,Technical,HIGH,IT
+Need to book appointment with doctor,Appointment,LOW,Reception
+Need to reschedule my doctor appointment,Appointment,LOW,Reception
+Doctor appointment was cancelled and needs rescheduling,Appointment,MEDIUM,Reception
+Need information about visiting hours,General,LOW,General Administration
+Need help finding a hospital department,General,LOW,General Administration
+Complaint about general hospital services,General,MEDIUM,General Administration
+Patient records are not available,Technical,HIGH,IT
+Nurse call button is not working,Maintenance,HIGH,Maintenance
+Severe difficulty breathing,Emergency,CRITICAL,Emergency
+Patient has heavy bleeding,Emergency,CRITICAL,Emergency
+Cardiac arrest reported in emergency ward,Emergency,CRITICAL,Emergency
+Mild headache and need medical advice,Medical,MEDIUM,Medical
+Incorrect insurance amount on bill,Billing,MEDIUM,Accounts
+Printer is not working in the office,Technical,MEDIUM,IT
